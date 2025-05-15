@@ -13,11 +13,12 @@ def promote_model():
     os.environ["MLFLOW_TRACKING_PASSWORD"] = dagshub_token
 
     dagshub_url = "https://dagshub.com"
-    repo_owner = "vikashdas770"
-    repo_name = "YT-Capstone-Project"
+    repo_owner = "Deepcya"
+    repo_name = "MLOps_Sentiment-Analyzer"
 
     # Set up MLflow tracking URI
     mlflow.set_tracking_uri(f'{dagshub_url}/{repo_owner}/{repo_name}.mlflow')
+    
 
     client = mlflow.MlflowClient()
 
