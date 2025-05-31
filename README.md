@@ -181,9 +181,5 @@ eksctl delete cluster --name flask-app-cluster --region us-east-1
 
 > If you're a recruiter, collaborator, or curious engineer—feel free to connect or reach out for project insights or potential opportunities.
 
----
 
-📌 **This repository showcases best practices in MLOps** and demonstrates how to take an ML model to scalable production with automation, observability, and reliability.
-
-```
 
