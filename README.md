@@ -177,9 +177,7 @@ eksctl delete cluster --name flask-app-cluster --region us-east-1
 
 ---
 
-## 🤝 Connect
 
-> If you're a recruiter, collaborator, or curious engineer—feel free to connect or reach out for project insights or potential opportunities.
 
 
 
